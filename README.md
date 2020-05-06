@@ -5,4 +5,4 @@ Program for unit on Stepic
 
 ----browser_name - optional parameter. Default = Chrome
 
-Unccomment the 28 in conftest.py line to check the language
+Unccomment the 28 in test_items.py line to check the language
